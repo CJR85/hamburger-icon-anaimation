@@ -50,11 +50,11 @@
 }
 
 .open-menu .line-1 {
-  transform: translate(-50%, 40px) rotate(-45deg);
+  transform: translate(-50%, 50%) rotate(-45deg);
 }
 
 .open-menu .line-3 {
-  transform: translate(-50%, 40px) rotate(45deg);
+  transform: translate(-50%, 50%) rotate(45deg);
 }
 
 .open-menu .line-2 {
