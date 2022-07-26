@@ -76,3 +76,15 @@
   right: 0;
   transform: translate(0, 40px);
 }
+
+.open-menu2 .line-1 {
+  transform: translate(0, 0) rotate(-45deg);
+}
+
+.open-menu2 .line-2 {
+  transform: translate(-100%, 0) rotate(-45deg);
+}
+
+.open-menu2 .line-3 {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
